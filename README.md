@@ -1,1 +1,1 @@
-# **Pizza-Sales-SQL & Power Bi Project**
+# **Pizza Sales-SQL & Power Bi Project**
